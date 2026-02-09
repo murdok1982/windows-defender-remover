@@ -210,32 +210,43 @@ bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
 
 ---
 
-## 📝 Licencia / License
+## 👥 Autoría y Créditos / Authorship and Credits
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 🔧 Autor Original / Original Author
 
-## 👨‍💻 Autor / Author
+**Ionut Bara** - [ionuttbara](https://github.com/ionuttbara)
+- Repositorio original / Original repository: [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)
+- Creador del proyecto base / Creator of the base project
 
-**Gustavo Lobato Clara** - [murdok1982](https://github.com/murdok1982)
+### ✨ Correcciones y Mejoras / Corrections and Improvements
 
+**Gustavo Lobato Clara (Murdok)** - [murdok1982](https://github.com/murdok1982)
+
+**Mejoras realizadas en esta versión / Improvements made in this version:**
+- ✅ Corrección de errores tipográficos en la documentación
+- ✅ Mejora en la estructura y formato del README
+- ✅ Añadida sección de donaciones Bitcoin
+- ✅ Documentación bilingüe (Español/Inglés)
+- ✅ Mejoras en advertencias de seguridad
+- ✅ Corrección de enlaces rotos
+- ✅ Mejor organización de las secciones
+
+**Contacto / Contact:**
 - 📧 Email: gustavolobatoclara@gmail.com
 - 💼 LinkedIn: [Gustavo Lobato Clara](https://www.linkedin.com/in/gustavo-lobato-clara1982/)
 - 🌍 Location: Valencia, España
+- 💻 *Apasionado por la ciber-seguridad y PYTHON!!!*
 
-*Apasionado por la ciber-seguridad y PYTHON!!!*
+---
+
+## 📝 Licencia / License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## ⚠️ Disclaimer / Descargo de responsabilidad
 
-**ES:** Este software se proporciona "tal cual", sin garantías de ningún tipo. El autor no se hace responsable de ningún daño causado por el uso de este software. Usar bajo tu propia responsabilidad.
+**ES:** Este software se proporciona "tal cual", sin garantías de ningún tipo. Los autores no se hacen responsables de ningún daño causado por el uso de este software. Usar bajo tu propia responsabilidad.
 
-**EN:** This software is provided "as is", without warranty of any kind. The author is not responsible for any damage caused by the use of this software. Use at your own risk.
-
----
-
-## 🌟 Créditos / Credits
-
-Proyecto original basado en el trabajo de [ionuttbara](https://github.com/ionuttbara/windows-defender-remover). Esta es una versión personalizada y mejorada.
-
-**Original project based on the work of ionuttbara. This is a customized and improved version.**
+**EN:** This software is provided "as is", without warranty of any kind. The authors are not responsible for any damage caused by the use of this software. Use at your own risk.
